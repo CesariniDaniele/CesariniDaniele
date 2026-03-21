@@ -1,16 +1,24 @@
-## Hi there 👋
+# Daniele Cesarini
 
-<!--
-**CesariniDaniele/CesariniDaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Data Science @ University of Perugia  
+Focus: Robotics, Machine Learning, Sensor Fusion
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🤖 EKF Localization for TurtleBot3
+Extended Kalman Filter for mobile robot pose estimation using ROS.
+
+### 📊 HDFS Anomaly Detection
+Multi-class classification using SVM with RBF kernel approximation.
+
+### 🏎 JetBikeRace (JavaFX)
+Pseudo-3D racing game inspired by retro arcade games.
+
+---
+
+## 🛠 Skills
+- Python, ROS, Machine Learning
+- Java, JavaFX
+- Data Analysis, NumPy, Scikit-learn
