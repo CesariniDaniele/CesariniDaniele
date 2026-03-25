@@ -1,6 +1,6 @@
 # Daniele Cesarini
 
-MSc student in Data Science @ University of Perugia  
+MSc Student in Computer Engineering and Robotics @ University of Perugia 
 Focus: Robotics, Machine Learning, Sensor Fusion
 
 ---
